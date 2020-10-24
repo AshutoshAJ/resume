@@ -1,1 +1,3 @@
-# resume
+# Resume
+
+Repo of my updated resumes.
